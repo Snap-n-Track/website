@@ -1,18 +1,37 @@
 @font-face {
-  font-family: 'Inter';
-  font-weight: 100 900;
+  font-family: 'Elza';
+  font-weight: 900;
+  font-display: block;
+  font-style: normal;
+  font-named-instance: 'Black';
+  src: url('/fonts/Elza-NarrowBlack.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Elza';
+  font-weight: 700;
+  font-display: block;
+  font-style: normal;
+  font-named-instance: 'Bold';
+  src: url('/fonts/Elza-NarrowBold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Elza';
+  font-weight: 500;
+  font-display: block;
+  font-style: normal;
+  font-named-instance: 'Medium';
+  src: url('/fonts/Elza-NarrowMedium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Elza';
+  font-weight: 400;
   font-display: block;
   font-style: normal;
   font-named-instance: 'Regular';
-  src: url('/fonts/Inter-roman.var.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'Inter';
-  font-weight: 100 900;
-  font-display: block;
-  font-style: italic;
-  font-named-instance: 'Italic';
-  src: url('/fonts/Inter-italic.var.woff2') format('woff2');
+  src: url('/fonts/Elza-Regular.woff2') format('woff2');
 }
 
 @tailwind base;

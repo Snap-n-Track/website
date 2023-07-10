@@ -37,7 +37,7 @@ module.exports = {
         gray: colors.neutral,
       }),
       fontFamily: {
-        sans: ['Inter', ...defaultTheme.fontFamily.sans],
+        sans: ['Elza', ...defaultTheme.fontFamily.sans],
       },
       keyframes: {
         'fade-in': {
