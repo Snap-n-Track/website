@@ -32,7 +32,7 @@ export function Logo() {
       <div className="flex items-center text-gray-900">
           <LogoIcon />
           <div className="ml-4">
-              <p className="text-base font-semibold">Snap 'n Track</p>
+              <p className="text-base font-semibold uppercase">Snap 'n Track</p>
           </div>
       </div>
   )
