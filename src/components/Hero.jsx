@@ -340,8 +340,8 @@ export function Hero() {
       <Container>
         <div className="lg:grid lg:grid-cols-12 lg:gap-x-8 lg:gap-y-20">
           <div className="relative z-10 mx-auto max-w-2xl lg:col-span-7 lg:max-w-none lg:pt-6 xl:col-span-6">
-            <h1 className="text-4xl font-medium tracking-tight text-gray-900 uppercase">
-              Elevate Your Game, Anywhere, Anytime.
+            <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 uppercase">
+              Elevate Your Game, <br/>Anywhere, <br/>Anytime.
             </h1>
             <p className="mt-6 text-lg text-gray-600">
               Welcome to Snap n' Track, the ultimate app for passionate golfers looking to elevate their game. Whether you're on the course, at the driving range, or even practicing at home, our app empowers you to capture your practice sessions, challenge friends, and gain valuable insights for maximum improvement.

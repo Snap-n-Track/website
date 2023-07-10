@@ -218,7 +218,7 @@ export function Reviews() {
       <Container>
         <h2
           id="reviews-title"
-          className="text-3xl font-medium tracking-tight text-gray-900 sm:text-center"
+          className="text-3xl font-medium tracking-tight text-gray-900 sm:text-center uppercase"
         >
           Elevate Your Game, Anywhere, Anytime.
         </h2>
