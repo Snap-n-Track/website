@@ -7,6 +7,7 @@ import { useDebouncedCallback } from 'use-debounce'
 import { CircleBackground } from '@/components/CircleBackground'
 import { Container } from '@/components/Container'
 import { PhoneFrame } from '@/components/PhoneFrame'
+import Image from "next/image";
 
 const features = [
   {
@@ -154,19 +155,37 @@ const bodyAnimation = {
 
 function InviteScreen({ custom, animated = false }) {
   return (
-      <img src={'/mockups/2.png'} className={"w-full"} alt={'Mockup 2'}/>
+    <Image
+        src="/mockups/2.png"
+        className={"w-full"}
+        alt="Mockup 2"
+        width={1000}
+        height={1000}
+    />
   )
 }
 
 function StocksScreen({ custom, animated = false }) {
   return (
-      <img src={'/mockups/4.png'} className={"w-full"} alt={'Mockup 4'}/>
+      <Image
+          src="/mockups/4.png"
+          className={"w-full"}
+          alt="Mockup 4"
+          width={1000}
+          height={1000}
+      />
   )
 }
 
 function InvestScreen({ custom, animated = false }) {
   return (
-      <img src={'/mockups/1.png'} className={"w-full"} alt={'Mockup 1'}/>
+      <Image
+          src="/mockups/1.png"
+          className={"w-full"}
+          alt="Mockup 1"
+          width={1000}
+          height={1000}
+      />
   )
 }
 
@@ -364,7 +383,7 @@ export function PrimaryFeatures() {
             Every feature you need to improve your game.
           </h2>
           <p className="mt-2 text-lg text-gray-400">
-            Capture, Analyze, and Compete with Snap 'n Track, the ultimate app designed to enhance your golf skills. Gain valuable insights, challenge friends, and elevate your game to new heights.
+            Capture, Analyze, and Compete with Snap &apos;n Track, the ultimate app designed to enhance your golf skills. Gain valuable insights, challenge friends, and elevate your game to new heights.
           </p>
         </div>
       </Container>

@@ -223,7 +223,7 @@ export function Reviews() {
           Elevate Your Game, Anywhere, Anytime.
         </h2>
         <p className="mt-2 text-lg text-gray-600 sm:text-center">
-          Impact of Snap n' Track on Golfers' Skills and Performance.
+          Impact of Snap &apos;n Track on Golfers&apos; Skills and Performance.
         </p>
         <ReviewGrid />
       </Container>

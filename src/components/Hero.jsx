@@ -98,7 +98,12 @@ function PlayIcon(props) {
 
 function AppDemo() {
   return (
-    <img src={'/mockups/5.png'} width={1500} alt={'Mockup 1'}/>
+      <Image
+          src="/mockups/5.png"
+          alt="Mockup 5"
+          width={1000}
+          height={1000}
+      />
   )
 }
 
@@ -112,7 +117,7 @@ export function Hero() {
               Elevate Your Game, <br/>Anywhere, <br/>Anytime.
             </h1>
             <p className="mt-6 text-lg text-gray-600">
-              Welcome to Snap n' Track, the ultimate app for passionate golfers looking to elevate their game. Whether you're on the course, at the driving range, or even practicing at home, our app empowers you to capture your practice sessions, challenge friends, and gain valuable insights for maximum improvement.
+              Welcome to Snap &apos;n Track, the ultimate app for passionate golfers looking to elevate their game. Whether you&apos;re on the course, at the driving range, or even practicing at home, our app empowers you to capture your practice sessions, challenge friends, and gain valuable insights for maximum improvement.
             </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
               <AppStoreLink />

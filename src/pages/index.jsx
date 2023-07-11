@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Snap 'n Track - Elevate Your Game, Anywhere, Anytime.</title>
+        <title>Snap &apos;n Track - Elevate Your Game, Anywhere, Anytime.</title>
         <meta
           name="description"
           content='Elevate your golf game. Capture practice sessions, challenge friends, and gain valuable insights for maximum improvement. "You Snap, we Track!"'
