@@ -28,7 +28,7 @@ export function Footer() {
               <LogoIcon />
               <div className="ml-4">
                 <p className="text-base font-semibold uppercase">Snap &apos;n Track</p>
-                <p className="mt-1 text-sm">Elevate Your Game, Anywhere, Anytime.</p>
+                <p className="mt-1 text-sm">Elevate Your Game. Anywhere. Anytime.</p>
               </div>
             </div>
             <nav className="mt-11 flex gap-8">
