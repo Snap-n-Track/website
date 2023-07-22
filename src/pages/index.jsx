@@ -14,8 +14,16 @@ export default function Home() {
         <title>Snap &apos;n Track - Elevate Your Game, Anywhere, Anytime.</title>
         <meta
           name="description"
-          content='Elevate your golf game. Capture practice sessions, challenge friends, and gain valuable insights for maximum improvement. "You Snap, we Track!"'
+          content='Elevate Your Game, Anywhere, Anytime. Capture practice sessions, compete with freinds friends, and gain invaluable insights for maximum improvement. "You Snap, we Track!"'
         />
+        <meta property="og:title" content="Snap &apos;n Track" />
+        <meta property="og:description" content="Elevate Your Game, Anywhere, Anytime." />
+        <meta property="og:image" content="https://www.snapandtrack.app/logo.png" />
+        <meta property="og:url" content="https://www.snapandtrack.app" />
+        <meta name="twitter:title" content="Snap &apos;n Track" />
+        <meta name="twitter:description" content="Elevate Your Game, Anywhere, Anytime." />
+        <meta name="twitter:url" content="https://www.snapandtrack.app/logo.png" />
+        <meta name="twitter:card" content="summary" />
       </Head>
       <Header />
       <main>
