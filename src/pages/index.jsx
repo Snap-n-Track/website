@@ -11,15 +11,6 @@ export default function Home() {
   return (
     <>
       <Head>
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-5B4KVZ5YCY"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments)}
-          gtag('js', new Date());
-
-          gtag('config', 'G-5B4KVZ5YCY');
-        </script>
         <title>Snap &apos;n Track - Elevate Your Game, Anywhere, Anytime.</title>
         <meta
           name="description"
