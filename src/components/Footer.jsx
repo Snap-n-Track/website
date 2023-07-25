@@ -10,7 +10,6 @@ function QrCodeBorder(props) {
   return (
     <svg viewBox="0 0 96 96" fill="none" aria-hidden="true" {...props}>
       <path
-        d="M1 17V9a8 8 0 0 1 8-8h8M95 17V9a8 8 0 0 0-8-8h-8M1 79v8a8 8 0 0 0 8 8h8M95 79v8a8 8 0 0 1-8 8h-8"
         strokeWidth="2"
         strokeLinecap="round"
       />
@@ -42,7 +41,7 @@ export function Footer() {
             </div>
             <div className="ml-8 lg:w-64">
               <p className="text-base font-semibold text-gray-900">
-                <Link href="#">
+                <Link href="https://apps.apple.com/us/app/snap-n-track/id6448868909">
                   <span className="absolute inset-0 sm:rounded-2xl" />
                   Download the app
                 </Link>
