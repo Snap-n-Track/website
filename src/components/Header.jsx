@@ -107,10 +107,10 @@ export function Header() {
                             <MobileNavLink href="#faqs">FAQs</MobileNavLink>
                           </div>
                           <div className="mt-8 flex flex-col gap-4">
-                            <Button href="/contact" variant="outline">
+                            <Button href="mailto:support@snapandtrack.app" variant="outline">
                               Contact
                             </Button>
-                            <Button href="#">Download the app</Button>
+                            <Button href="https://apps.apple.com/us/app/snap-n-track/id6448868909">Download the app</Button>
                           </div>
                         </Popover.Panel>
                       </>
