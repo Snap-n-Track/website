@@ -249,39 +249,39 @@ export default function privacyStatement() {
                             ground we rely on to process
                             your personal data where more than one ground has been set out in the table below.
                         </p>
-                        <table className="table-auto">
+                        <table className="table-auto border-collapse border border-slate-500">
                             <thead>
                                 <tr>
-                                    <th><strong>Purpose/Activity</strong></th>
-                                    <th><strong>Type of data</strong></th>
-                                    <th><strong>Lawful basis for processing including basis<br /> of legitimate interest</strong></th>
+                                    <th className="text-left p-2 border border-slate-700"><strong>Purpose/Activity</strong></th>
+                                    <th className="text-left p-2 border border-slate-700"><strong>Type of data</strong></th>
+                                    <th className="text-left p-2 border border-slate-700"><strong>Lawful basis for processing including basis<br /> of legitimate interest</strong></th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>To register you as a new customer</td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">To register you as a new customer</td>
+                                    <td className="p-2 border border-slate-700">
                                         (a) Identity <br />
                                         (b) Contact
                                     </td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">
                                         (a) Performance of a contract with you<br/>
                                         (b) Necessary for our legitimate interests (to
                                         recover debts due to us)
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>To manage our relationship with you which will include: <br/><br/>
+                                    <td className="p-2 border border-slate-700">To manage our relationship with you which will include: <br/><br/>
                                         (a) Notifying you about changes to our terms or privacy policy<br/>
                                         (b) Asking you to leave a review or take a survey<br/>
                                     </td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">
                                         (a) Identity<br/>
                                         (b) Contact<br/>
                                         (c) Profile<br/>
                                         (d) Marketing and Communications<br/>
                                     </td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">
                                         (a) Performance of a contract with you<br/>
                                         (b) Necessary to comply with a legal obligation<br/>
                                         (c) Necessary for our legitimate interests (to keep our records updated and to
@@ -289,31 +289,31 @@ export default function privacyStatement() {
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>To enable you to partake in a prize draw, league or complete a survey</td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">To enable you to partake in a prize draw, league or complete a survey</td>
+                                    <td className="p-2 border border-slate-700">
                                         (a) Identity<br/>
                                         (b) Contact<br/>
                                         (c) Profile<br/>
                                         (d) Usage<br/>
                                         (e) Marketing and Communications<br/>
                                     </td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">
                                         (a) Performance of a contract with you<br/>
                                         (b) Necessary for our legitimate interests (to study how customers use our
                                         products/services and play our games, to develop them and grow our business)
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>To administer and protect our business, our website and our app (including
+                                    <td className="p-2 border border-slate-700">To administer and protect our business, our website and our app (including
                                         troubleshooting, data analysis, testing, system maintenance, support, reporting
                                         and hosting of data)
                                     </td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">
                                         (a) Identity<br/>
                                         (b) Contact<br/>
                                         (c) Technical<br/>
                                     </td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">
                                         (a) Necessary for our legitimate interests (for running our business, provision
                                         of administration and IT services, network security, to prevent fraud and in the
                                         context of a business reorganisation or group restructuring exercise)<br/>
@@ -321,63 +321,63 @@ export default function privacyStatement() {
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>To develop and deliver relevant website and app content, games and
+                                    <td className="p-2 border border-slate-700">To develop and deliver relevant website and app content, games and
                                         advertisements to you and measure or understand the effectiveness of the
                                         advertising we serve to you
                                     </td>
-                                    <td>(a) Identity<br/>
+                                    <td className="p-2 border border-slate-700">(a) Identity<br/>
                                         (b) Contact<br/>
                                         (c) Profile<br/>
                                         (d) Usage<br/>
                                         (e) Marketing and Communications<br/>
                                         (f) Technical
                                     </td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">
                                         Necessary for our legitimate interests (to study how customers use our
                                         products/services and interact with our games, to develop them, to grow our
                                         business and to inform our marketing strategy)
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>To use data analytics to improve our website, app, products/services, marketing,
+                                    <td className="p-2 border border-slate-700">To use data analytics to improve our website, app, products/services, marketing,
                                         customer relationships and experiences
                                     </td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">
                                         (a) Technical<br/>
                                         (b) Usage<br/>
                                         (c) Profile<br/>
                                     </td>
-                                    <td>
+                                    <td className="p-2 border border-slate-700">
                                         Necessary for our legitimate interests (to define types of customers for our
                                         games, products and services, to keep our website and app updated and relevant,
                                         to develop our business and to inform our marketing strategy)
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>To make suggestions and recommendations to you about goods or services that may
+                                    <td className="p-2 border border-slate-700">To make suggestions and recommendations to you about goods or services that may
                                         be of interest to you, including any relevant news stories, new games or
                                         potential friends
                                     </td>
-                                    <td>(a) Identity<br/>
+                                    <td className="p-2 border border-slate-700">(a) Identity<br/>
                                         (b) Contact<br/>
                                         (c) Technical<br/>
                                         (d) Usage<br/>
                                         (e) Profile<br/>
                                         (f) Marketing and Communications</td>
-                                    <td>Necessary for our legitimate interests (to develop our products/services and
+                                    <td className="p-2 border border-slate-700">Necessary for our legitimate interests (to develop our products/services and
                                         grow our business)
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>To send your details to professional football clubs in order to assist them in
+                                    <td className="p-2 border border-slate-700">To send your details to professional football clubs in order to assist them in
                                         communicating with their fanbase, merchandising, or any activity within their
                                         stated privacy policies.
                                     </td>
-                                    <td>(a) Identity<br/>
+                                    <td className="p-2 border border-slate-700">(a) Identity<br/>
                                         (b) Contact<br/>
                                         (c) Profile
                                     </td>
-                                    <td>With your consent only</td>
+                                    <td className="p-2 border border-slate-700">With your consent only</td>
                                 </tr>
                             </tbody>
                         </table>
