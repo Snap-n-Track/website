@@ -25,10 +25,9 @@ export default function privacyStatement() {
                         <h3 className="text-2xl font-extrabold tracking-tight text-gray-900 mt-5">
                             Purpose of this privacy policy
                         </h3>
-                        <p className="mt-2 text-lg text-gray-600">This privacy policy sets out how Snap 'n Track collects and processes personal data, including
-                            any data you may
-                            provide to us through this website or on the app when you create an account and use the
-                            app.</p>
+                        <p className="mt-2 text-lg text-gray-600">
+                            This privacy policy sets out how Snap &quot;n Track collects and processes personal data, including any data you may provide to us through this website or on the app when you create an account and use the app.
+                        </p>
                         <p className="mt-2 text-lg text-gray-600">It is important that you read this privacy policy and any other privacy policy or fair
                             processing policy we may provide
                             on specific occasions when we are collecting or processing personal data about you so that
@@ -41,7 +40,7 @@ export default function privacyStatement() {
                         <h3 className="text-2xl font-extrabold tracking-tight text-gray-900 mt-5">
                             Controller
                         </h3>
-                        <p className="mt-2 text-lg text-gray-600">Snap ‘n Track is the controller and is responsible for your personal data (referred to as "SNT", "we", "us" or "our" in this privacy policy).</p>
+                        <p className="mt-2 text-lg text-gray-600">Snap &quot;n Track is the controller and is responsible for your personal data (referred to as &#147;SNT&#8221;, &#147;we&#8221;, &#147;us&#8221; or &#147;our&#8221; in this privacy policy).</p>
                         <p className="mt-2 text-lg text-gray-600">
                             We have appointed a data protection officer (DPO), Niels Kieviet, who is responsible for
                             overseeing questions in
@@ -423,7 +422,7 @@ export default function privacyStatement() {
                                 When you visit our website, we will ask for your consent to place any non-essential
                                 cookies on your device. We also
                                 offer you the option to adjust your cookie settings on our website. By clicking the
-                                "Cookies" button, you can choose
+                                &quot;Cookies&quot; button, you can choose
                                 which non-essential cookies you want to activate on our website and which you want to
                                 deactivate. Only technically
                                 necessary cookies are switched to “always on,” as these are essential to provide
@@ -554,7 +553,7 @@ export default function privacyStatement() {
                                 <li>Transaction Data and some Financial data, such as fraud, we will retain for six
                                     years; and
                                 </li>
-                                <li>Most other data we will retain for as long you have the Snap 'n Track app installed for, plus
+                                <li>Most other data we will retain for as long you have the Snap &quot;n Track app installed for, plus
                                     two years.
                                 </li>
                             </ul>
@@ -663,8 +662,7 @@ export default function privacyStatement() {
                             YOUR LEGAL RIGHTS
                         </h3>
                             <p className="mt-2 text-lg text-gray-600">You have the right to:</p>
-                            <p className="mt-2 text-lg text-gray-600"><strong>Request access</strong> to your personal data (commonly known as a "data subject
-                                access request"). This enables you to
+                            <p className="mt-2 text-lg text-gray-600"><strong>Request access</strong> to your personal data (commonly known as a &quot;data subject access request&quot;). This enables you to
                                 receive a copy of the personal data we hold about you and to check that we are lawfully
                                 processing it.</p>
                             <p className="mt-2 text-lg text-gray-600"><strong>Request correction</strong> of the personal data that we hold about you. This
@@ -701,7 +699,7 @@ export default function privacyStatement() {
                                 personal data in the following scenarios:
                             </p>
                             <ul className="list-disc mt-2 text-lg text-gray-600 ml-10">
-                                <li>If you want us to establish the data's accuracy.</li>
+                                <li>If you want us to establish the data&quot;s accuracy.</li>
                                 <li>Where our use of the data is unlawful, but you do not want us to erase it.</li>
                                 <li>Where you need us to hold the data even if we no longer require it as you need it to
                                     establish, exercise or
