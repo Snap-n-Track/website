@@ -105,7 +105,7 @@ export default function privacyStatement() {
                             </li>
                             <li><strong>Profile Data</strong> includes your username and password, your interests, your
                                 survey responses, preferences,
-                                feedback, the football clubs that you support, records of any contests you have
+                                feedback, the golf clubs that you support, records of any contests you have
                                 participated in on our app
                                 and your winnings, your activities during those contents, the details of your
                                 interactions with our in-app
@@ -201,7 +201,7 @@ export default function privacyStatement() {
                                     </li>
                                 </ul>
                             </li>
-                            <li>Identity and Contact Data from football clubs.</li>
+                            <li>Identity and Contact Data from golf clubs.</li>
                             <li>Identity and Contact Data where you interact with us on social media.</li>
                         </ul>
 
@@ -228,7 +228,7 @@ export default function privacyStatement() {
                             although we will get your
                             consent before sending third-party direct marketing communications to you via email or text
                             message or before we
-                            share your details with any football clubs. You have the right to withdraw consent to
+                            share your details with any golf clubs. You have the right to withdraw consent to
                             marketing at any time by
                             contacting us.
                         </p>
@@ -368,7 +368,7 @@ export default function privacyStatement() {
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td className="p-2 border border-slate-700">To send your details to professional football clubs in order to assist them in
+                                    <td className="p-2 border border-slate-700">To send your details to professional golf clubs in order to assist them in
                                         communicating with their fanbase, merchandising, or any activity within their
                                         stated privacy policies.
                                     </td>
@@ -650,7 +650,7 @@ export default function privacyStatement() {
                                     controllers including lawyers, bankers, auditors and insurers who provide
                                     consultancy, banking, legal, insurance and accounting services.
                                 </li>
-                                <li>Professional football clubs to whom we will only transfer your personal data with
+                                <li>Professional golf clubs to whom we will only transfer your personal data with
                                     your consent.
                                 </li>
                                 <li>Any subsidiaries or holding companies who need to receive your personal data in
