@@ -16,7 +16,7 @@ export default function accountDeletion() {
                         <h1 className="text-6xl font-extrabold tracking-tight text-gray-900 uppercase">
                             Account Deletion
                         </h1>
-                        <p className="mt-2 text-lg text-gray-600">Just as a golf pro feels the sting of losing a crucial tournament, it's with a heavy heart that we bid you farewell from Snap &apos;n Track.<br />We respect your decision, and here's a smooth swing to guide you through the departure process.</p>
+                        <p className="mt-2 text-lg text-gray-600">Just as a golf pro feels the sting of losing a crucial tournament, it&apos;s with a heavy heart that we bid you farewell from Snap &apos;n Track.<br />We respect your decision, and here&apos;s a smooth swing to guide you through the departure process.</p>
 
                         <h2 className="text-2xl font-extrabold tracking-tight text-gray-900 uppercase mt-5">
                             1. Sending us an Email
@@ -35,16 +35,16 @@ export default function accountDeletion() {
                             a. Open the Snap &apos;n Track app.<br/>
                             b. Click on the profile menu icon and locate &quote;Delete your Account&quote; in the menu- options.<br/>
                             c. Follow the on-screen instructions.<br/>
-                            d. Once confirmed, your account will be marked for deletion. Keep in mind, it's a permanent move, and your journey with us will be erased.<br/>
+                            d. Once confirmed, your account will be marked for deletion. Keep in mind, it&apos;s a permanent move, and your journey with us will be erased.<br/>
                         </p>
                         <p className="mt-2 text-lg text-gray-600">
                             Please be patient as it can take up to 72 hours for your account to be entirely removed. During this period, your golfing data will be methodically cleared from our systems.
                         </p>
                         <p className="mt-2 text-lg text-gray-600">
-                            We'll miss having you on the training sessions, but we wish you the best in your golf journey.
+                            We&apos;ll miss having you on the training sessions, but we wish you the best in your golf journey.
                         </p>
                         <p className="mt-2 text-lg text-gray-600">
-                            If you have inquiries or require assistance, connect with our support team at support@snapandtrack.app. We're here to address any concerns you may have, and should you ever decide to rejoin us, we'll welcome you back with open arms.
+                            If you have inquiries or require assistance, connect with our support team at support@snapandtrack.app. We&apos;re here to address any concerns you may have, and should you ever decide to rejoin us, we&apos;ll welcome you back with open arms.
                         </p>
                     </Container>
                 </section>
