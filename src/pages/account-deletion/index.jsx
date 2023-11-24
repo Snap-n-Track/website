@@ -22,7 +22,7 @@ export default function accountDeletion() {
                             1. Sending us an Email
                         </h2>
                         <p className="mt-2 text-lg text-gray-600">
-                            a. Draft an email to support@snapandtrack.app with the subject "Membership Termination Request."<br />
+                            a. Draft an email to support@snapandtrack.app with the subject &quote;Membership Termination Request.&quote;<br />
                             b. In the email, share your username and the email linked to your account.<br />
                             c. Our support team, while feeling the loss, will assist you in gracefully navigating the deletion of your account.<br />
                         </p>
@@ -33,7 +33,7 @@ export default function accountDeletion() {
 
                         <p className="mt-2 text-lg text-gray-600">
                             a. Open the Snap &apos;n Track app.<br/>
-                            b. Click on the profile menu icon and locate "Delete your Account" in the menu- options.<br/>
+                            b. Click on the profile menu icon and locate &quote;Delete your Account&quote; in the menu- options.<br/>
                             c. Follow the on-screen instructions.<br/>
                             d. Once confirmed, your account will be marked for deletion. Keep in mind, it's a permanent move, and your journey with us will be erased.<br/>
                         </p>
