@@ -26,7 +26,7 @@ export default function privacyStatement() {
                             Purpose of this privacy policy
                         </h3>
                         <p className="mt-2 text-lg text-gray-600">
-                            This privacy policy sets out how Snap &quot;n Track collects and processes personal data, including any data you may provide to us through this website or on the app when you create an account and use the app.
+                            This privacy policy sets out how Snap &apos;n Track collects and processes personal data, including any data you may provide to us through this website or on the app when you create an account and use the app.
                         </p>
                         <p className="mt-2 text-lg text-gray-600">It is important that you read this privacy policy and any other privacy policy or fair
                             processing policy we may provide
@@ -40,7 +40,7 @@ export default function privacyStatement() {
                         <h3 className="text-2xl font-extrabold tracking-tight text-gray-900 mt-5">
                             Controller
                         </h3>
-                        <p className="mt-2 text-lg text-gray-600">Snap &quot;n Track is the controller and is responsible for your personal data (referred to as &#147;SNT&#8221;, &#147;we&#8221;, &#147;us&#8221; or &#147;our&#8221; in this privacy policy).</p>
+                        <p className="mt-2 text-lg text-gray-600">Snap &apos;n Track is the controller and is responsible for your personal data (referred to as &#147;SNT&#8221;, &#147;we&#8221;, &#147;us&#8221; or &#147;our&#8221; in this privacy policy).</p>
                         <p className="mt-2 text-lg text-gray-600">
                             We have appointed a data protection officer (DPO), Niels Kieviet, who is responsible for
                             overseeing questions in
@@ -553,7 +553,7 @@ export default function privacyStatement() {
                                 <li>Transaction Data and some Financial data, such as fraud, we will retain for six
                                     years; and
                                 </li>
-                                <li>Most other data we will retain for as long you have the Snap &quot;n Track app installed for, plus
+                                <li>Most other data we will retain for as long you have the Snap &apos;n Track app installed for, plus
                                     two years.
                                 </li>
                             </ul>
