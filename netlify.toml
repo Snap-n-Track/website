@@ -1,5 +1,4 @@
 # Netlify build configuration
-# Pin Node.js to a version compatible with @netlify/plugin-lighthouse (>=14.15 <20)
-# Using Node 18 LTS
+# Use Node.js 22.20.0 (compatible with updated dependencies)
 [build.environment]
-  NODE_VERSION = "18"
+  NODE_VERSION = "22.20.0"
